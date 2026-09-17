@@ -1,4 +1,6 @@
-#include <string>
-void message(std::string mes) {
-    std::cout << mes << std::endl;
+#include<string>
+#include<iostream>
+
+void message(std::string msg) {
+	std::cout << msg << std::endl;
 }
