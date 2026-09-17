@@ -1,2 +1,2 @@
-def message(mes):
-   print(mes)
+def message(msg):
+    print(msg)
